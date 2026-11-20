@@ -6,3 +6,4 @@ slprj/
 *_grt_rtw/
 codegen/
 *.mex*
+results/*.mat
