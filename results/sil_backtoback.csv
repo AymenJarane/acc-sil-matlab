@@ -1,0 +1,6 @@
+Scenario,max_diff_a_cmd,max_diff_v_ego,max_diff_d,mode_identique,OK
+Leader qui freine puis re-accelere,0,0,0,1,1
+Route libre,0,0,0,1,1
+Vehicule lent proche (type cut-in),0,0,0,1,1
+Leader sinusoidal,0,0,0,1,1
+Rattrapage d'un leader lent,0,0,0,1,1
